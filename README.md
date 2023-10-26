@@ -45,7 +45,7 @@ As a supplementary part of the analysis, we pose some questions relevant to the 
 In this section, we provide insights into the methodology employed for data collection, cleaning, and analysis. It outlines the steps taken to ensure the reliability and integrity of the results presented in this repository.
 
 ## 8. Data Sources
-Here, we list the sources from which the data was obtained and provide details on the data collection process. We also include information on how to access and utilize the dataset for further research or analysis.
+/kaggle/input/zomato-restaurants-data
 
 ## 9. Dependencies
 We document the software and libraries used in the analysis, making it easier for users to replicate the analysis or build upon it.
