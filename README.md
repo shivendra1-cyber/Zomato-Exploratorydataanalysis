@@ -1,4 +1,6 @@
 # Zomato Restaurant Data Analysis
+<img width="503" alt="image" src="https://github.com/shivendra1-cyber/Zomato-Exploratorydataanalysis/assets/68283342/bc2fed2e-d08f-4e61-a4d3-2577f39150c0">
+
 
 ## Overview
 This repository contains an in-depth exploratory data analysis (EDA) of Zomato restaurant data, with a specific focus on the restaurant landscape in Kolkata, India. The analysis aims to provide a comprehensive understanding of various aspects related to restaurant data, including the rating aggregate, color, and text analysis of restaurant names and descriptions. Furthermore, it aims to offer insights into the restaurant scene in Kolkata and identify top food choices within the city. Additionally, we pose some relevant questions in the food delivery industry to stimulate further research.
